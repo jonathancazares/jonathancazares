@@ -10,5 +10,4 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
 ### I'm currently learning:
 1. Python programming.
- Markup : 
-        - [ ] A subtask
+
