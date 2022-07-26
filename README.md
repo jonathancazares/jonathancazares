@@ -16,7 +16,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
 <p align="center">
 	<a href="https://github.com/jonathancazares/100-Days-of-Python-codes">
-		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathancazares&theme=tokyonight&hide_border=true&repo=100-days-of-code"/>
+		<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathancazares&theme=omni&hide_border=true&repo=100-days-of-code"/>
 	</a>
 
 - **SQL Fundamentals:**
