@@ -27,6 +27,5 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonathancazares&theme=radical)](https://git.io/streak-stats)
-	</a>
+<p align="center"> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonathancazares&theme=radical)](https://git.io/streak-stats)
