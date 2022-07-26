@@ -9,7 +9,8 @@ I love to explore new technologies while finding ways to combine my graphic desi
 <img src= "https://github.com/jonathancazares/jonathancazares/blob/main/banner_two.png">
 
 ### I'm currently learning:
-- **Python programming**
+- **Python programming:**
+
   * Data Scientist with Python by DataCamp
   * 100 Days of Code (by Udemy)
 
