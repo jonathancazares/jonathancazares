@@ -10,4 +10,4 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
 ### I'm currently learning:
 1. Python programming.
-   100 Days of Code.
+-100 Days of Code.
