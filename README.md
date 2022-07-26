@@ -23,6 +23,12 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
   * SQL Fundamentals **by DataCamp**
 
+## My Profile Details
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathancazares&theme=radical&" align = "center"/>
+</p>
+
 ## My stats
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
