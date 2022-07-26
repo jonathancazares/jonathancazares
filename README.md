@@ -11,7 +11,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 ### I'm currently learning:
 - **Python programming:**
 
-  * Data Scientist with Python by DataCamp
-  * 100 Days of Code (by Udemy)
+  * Data Scientist with Python *by DataCamp*
+  * 100 Days of Code *by Udemy*
 
 
