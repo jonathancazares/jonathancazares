@@ -9,7 +9,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 <img src= "https://github.com/jonathancazares/jonathancazares/blob/main/banner_two.png">
 
 ### I'm currently learning:
-- **Python programming:**
+- **Python Programming:**
 
   * Data Scientist with Python **by DataCamp**
   * 100 Days of Code **by Udemy**
@@ -22,3 +22,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 - **SQL Fundamentals:**
 
   * SQL Fundamentals **by DataCamp**
+
+## My stats
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
