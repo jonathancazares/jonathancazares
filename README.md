@@ -14,4 +14,3 @@ I love to explore new technologies while finding ways to combine my graphic desi
   * Data Scientist with Python *by DataCamp*
   * 100 Days of Code *by Udemy*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathancazares/100-Days-of-Python-codes)](https://github.com/jonathancazares/100-Days-of-Python-codes)
