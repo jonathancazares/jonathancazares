@@ -2,10 +2,6 @@
 
 ## About me
 
-<p align="center">
-  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathancazares&theme=radical&" align = "center"/>
-</p>
-
 I'm a **Software Engineering** student at the Universidad del Valle de México (UVM). I'm interested in data analytics, Artificial Intelligence (AI), programming, literature, and design. 
 
 I love to explore new technologies while finding ways to combine my graphic design abilities with my growing knowledge of programming. 🤖
@@ -30,3 +26,9 @@ I love to explore new technologies while finding ways to combine my graphic desi
 ## My stats
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<a href="https://github.com/djonathancazares">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dioveath&theme=radical&show_icons=true&hide_border=true&stroke=e05397&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+</a>
+</p>
