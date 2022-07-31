@@ -9,7 +9,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 <img src= "https://github.com/jonathancazares/jonathancazares/blob/main/banner_two.png">
 
 ### I'm currently learning:
-- **Python Programming:
+- **Python Programming**:
 
 <p align="center">
 	<a href="https://github.com/jonathancazares/100-Days-of-Python-codes">
