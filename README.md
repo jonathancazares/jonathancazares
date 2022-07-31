@@ -17,7 +17,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 	</a>
 
 - **SQL Fundamentals**
-- *C++ Programming**
+- **C++ Programming**
 
 ## My stats
 
