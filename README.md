@@ -23,7 +23,7 @@ I love to explore new technologies while finding ways to combine my graphic desi
 
 <p align="center">
 	<a href="https://github.com/jonathancazares">
-		<img align"center" src="https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/)
+		<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jonathancazares&bg_color=000000&color=ff1099&line=ff1099&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/)
 	</a>
 </p>
 	
