@@ -6,7 +6,7 @@ I'm a **Software Engineering** student at the Universidad del Valle de México (
 
 I love to explore new technologies while finding ways to combine my graphic design abilities with my growing programming skills. 🤖
 
-<img src= "https://github.com/jonathancazares/jonathancazares/blob/main/banner_two.png">
+<img src= "">
 
 ### I'm currently learning:
 - **Python Programming**:
